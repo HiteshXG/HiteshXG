@@ -158,19 +158,19 @@
 ## Connect With Me
 
 <a href="https://linkedin.com/in/hitesh-gavand">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://twitter.com/hnxvrtxx">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://instagram.com/hnxvrtxx">
-<img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:hiteshgavand0@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -191,18 +191,10 @@
 ---
 
 <!-- Footer Wave -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=footer"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
-  />
+<p align="center">
   <img
+    src="https://ik.imagekit.io/sczd64bhh/83m6pl.gif?updatedAt=1784218005185"
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
-    alt="Footer Wave"
+    alt="Footer"
   />
-</picture>
+</p>
