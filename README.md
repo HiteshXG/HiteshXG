@@ -190,11 +190,12 @@
 
 ---
 
-<!-- Footer Wave -->
-<p align="center">
-  <img
-    src="https://ik.imagekit.io/sczd64bhh/83m6pl.gif?updatedAt=1784218005185"
-    width="100%"
-    alt="Footer"
-  />
+<!-- Footer Wave --><p align="center">
+  <a href="https://github.com/HiteshXG">
+    <img
+      src="https://ik.imagekit.io/sczd64bhh/83m6pl.gif?updatedAt=1784218005185"
+      width="100%"
+      alt="Footer"
+    />
+  </a>
 </p>
