@@ -123,7 +123,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=DC2626&title_color=DC2626&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=DC2626&title_color=white&text_color=white" />
 
   <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
 </p>
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-## Contribution Graph
+## Contribution
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
