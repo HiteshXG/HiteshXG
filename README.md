@@ -125,11 +125,11 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=white&title_color=White&text_color=White" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=white&fire=white&currStreakLabel=white&currStreakNum=white&sideNums=white&sideLabels=white&dates=white" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=green&fire=green&currStreakLabel=green&currStreakNum=green&sideNums=green&sideLabels=green&dates=green" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=white" />
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=green&text_color=green" />
 </p>
 
 ---
