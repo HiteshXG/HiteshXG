@@ -123,17 +123,14 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=white&title_color=White&text_color=White" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=green&fire=green&currStreakLabel=green&currStreakNum=green&sideNums=green&sideLabels=green&dates=green" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=green&text_color=green" />
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
 </p>
-
----
-
 <div align="center">
 
 ## Contribution
