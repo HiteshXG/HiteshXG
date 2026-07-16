@@ -7,15 +7,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=8B0000&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=000000&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=DC2626&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=ffffff&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
   />
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=DC2626&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=000000&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
     alt="Banner"
   />
 </picture>
@@ -24,13 +24,13 @@
 
 # Hey there, I'm Hitesh 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
-<img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=000000&color=ffffff" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=000000&color=ffffff" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -121,13 +121,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=DC2626&title_color=DC2626&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&text_color=333333" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=666666" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=DC2626&text_color=C9D1D9" />
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" />
 </p>
 
 ---
@@ -195,16 +195,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=footer"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=footer&animation=twinkling"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=160&section=footer&animation=twinkling"
   />
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=footer&animation=twinkling"
     alt="Footer Wave"
   />
 </picture>
-
