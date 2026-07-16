@@ -191,11 +191,10 @@
 ---
 
 <!-- Footer Wave --><p align="center">
-  <a href="https://github.com/HiteshXG">
-    <img
-      src="https://ik.imagekit.io/sczd64bhh/83m6pl.gif?updatedAt=1784218005185"
-      width="100%"
-      alt="Footer"
-    />
-  </a>
+  <p align="center">
+  <img
+    src="./assets/assets/83m6pl-ezgif.com-optimize.gif"
+    alt="Footer"
+    width="100%"
+  />
 </p>
