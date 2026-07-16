@@ -1,18 +1,291 @@
-# 💫 About Me:
-## About Me<br><br>- I’m currently working on **AI-powered web applications** and **full-stack projects**.<br>- I’m looking to collaborate on **Open Source, React, Next.js, Node.js, and AI projects**.<br>- I’m looking for help with **System Design, DevOps, and scalable backend architectures**.<br>- I’m currently learning **Next.js, FastAPI, AI integration, Docker, and Cloud Technologies**.<br>- Ask me about **React, JavaScript, Python, Java, Node.js, MongoDB, or Full-Stack Development**.<br>- Fun fact: **I'm addicted to learning new technologies and turning ideas into real-world projects.**
+<!-- ============================== -->
+<!--          PROFILE README        -->
+<!-- ============================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gYuZ5gHuE) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hitesh Gavand) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hnxvrtxx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-gavand) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Chicooopine) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cold-Practice4529) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hnxvrtxx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshgavand0@gmail.com) 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=8B0000&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=DC2626&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=DC2626&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Programmer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"
+    alt="Banner"
+  />
+</picture>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HiteshXG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+
+# Hey there, I'm Hitesh 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HiteshXG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### 👨‍💻 Hello!
+
+I'm **Hitesh**, a passionate **Software Developer** who enjoys transforming ideas into real-world applications.
+
+I love building modern, scalable, and user-friendly software while continuously learning new technologies.
+
+### 🌟 Currently
+
+- 🔭 Working on **exciting full-stack projects**
+- 🌱 Learning **Cloud • AI • System Design**
+- 💡 Exploring **Open Source**
+- ⚡ Building projects to improve every day
+- 🎯 Goal: Become a world-class Software Engineer
+
+### ❤️ Interests
+
+- Web Development
+- Software Engineering
+- Artificial Intelligence
+- UI / UX
+- Backend Development
+- Open Source
+
+> *"Keep learning. Keep building. Keep improving."*
+
+</td>
+
+<td width="35%" align="center">
+
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask,java,kotlin,python,spring,mongodb,mysql,postgres,supabase,firebase,redis,sqlite,flutter,git,github,vscode,figma,postman&perline=7" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HiteshXG&show_icons=true&hide_border=true&theme=transparent&title_color=DC2626&icon_color=DC2626&text_color=999999&ring_color=DC2626" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshXG&theme=dark&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshXG&layout=compact&hide_border=true&theme=transparent&title_color=DC2626&text_color=999999" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=00000000&color=DC2626&line=DC2626&point=EF4444&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=HiteshXG&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<!-- Snake Animation - Will work once GitHub Action is set up -->
+<!-- Create .github/workflows/snake.yml to enable this -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake.svg"
+    onerror="this.style.display='none'; document.getElementById('snake-fallback').style.display='block';"
+  />
+</picture>
+
+<div id="snake-fallback" style="display: none; padding: 30px; background: #0d1117; border-radius: 12px; border: 1px dashed #DC2626; margin: 20px 0;">
+  <p style="color: #DC2626; font-size: 18px; margin-bottom: 10px;">🐍 Setup Required for Snake Animation</p>
+  <p style="color: #999; margin-bottom: 15px;">To enable the snake animation, set up the GitHub Action workflow.</p>
+  <details style="text-align: left; max-width: 600px; margin: 0 auto;">
+    <summary style="color: #DC2626; cursor: pointer; font-weight: 600;">📖 Click for setup instructions</summary>
+    <div style="padding: 20px; background: #161b22; border-radius: 8px; margin-top: 15px; text-align: left; color: #ccc; border: 1px solid #30363d;">
+      <ol style="margin: 0; padding-left: 20px; line-height: 2;">
+        <li>Create <code style="background: #1c2333; padding: 2px 8px; border-radius: 4px; color: #DC2626;">.github/workflows/snake.yml</code></li>
+        <li>Add the Platane/snk workflow (see below)</li>
+        <li>Push to main branch</li>
+        <li>Go to Actions tab and run the workflow</li>
+        <li>The animation will appear here automatically!</li>
+      </ol>
+      <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d;">
+        <p style="color: #999; font-size: 14px; margin-bottom: 8px;">📋 Workflow code:</p>
+        <pre style="background: #0d1117; padding: 15px; border-radius: 6px; overflow-x: auto; font-size: 12px; color: #58a6ff; border: 1px solid #30363d;">
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: HiteshXG
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        </pre>
+      </div>
+      <div style="margin-top: 15px;">
+        <a href="https://github.com/Platane/snk" target="_blank" style="color: #DC2626; text-decoration: none; font-weight: 600;">📚 Full documentation →</a>
+      </div>
+    </div>
+  </details>
+</div>
+
+<br>
+<em style="color: #666; font-size: 14px;">⚡ Snake eating my contribution graph</em>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/your-linkedin-username">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/your-x-username">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://instagram.com/your-instagram-username">
+<img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://tiktok.com/@your-tiktok-username">
+<img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+</a>
+
+<a href="https://youtube.com/@your-youtube-username">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📝 Latest Blog Posts
+
+<!-- Replace with your actual blog posts if you have one -->
+<!-- Using dev.to as an example -->
+
+<a href="https://dev.to/your-devto-username">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+
+<br><br>
+
+<!-- You can add your latest blog posts here using a GitHub Action -->
+<!-- Example: https://github.com/gautamkrishnar/blog-post-workflow -->
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<br>
+
+![GitHub repo stars](https://img.shields.io/github/stars/HiteshXG?style=social)
+![GitHub followers](https://img.shields.io/github/followers/HiteshXG?style=social)
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=footer"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+    alt="Footer Wave"
+  />
+</picture>
+
