@@ -22,7 +22,7 @@
 
 <br>
 
-# Hey there, I'm Hitesh 👋
+# Hey there, I'm Hitesh...
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -61,9 +61,9 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -71,7 +71,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### ⚛️ Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -80,7 +80,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
@@ -88,7 +88,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -98,7 +98,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -107,7 +107,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🤖 AI / Data Science
+### AI / Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -118,7 +118,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=DC2626&title_color=DC2626&text_color=C9D1D9" />
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
@@ -148,29 +148,21 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://linkedin.com/in/hitesh-gavand">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://twitter.com/your-x-username">
+<a href="https://twitter.com/hnxvrtxx">
 <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
-<a href="https://instagram.com/your-instagram-username">
+<a href="https://instagram.com/hnxvrtxx">
 <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://tiktok.com/@your-tiktok-username">
-<img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a>
-
-<a href="https://youtube.com/@your-youtube-username">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:hiteshgavand0@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -180,7 +172,7 @@
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### If you like my work, consider giving a star to my repositories!
 
 <br>
 
