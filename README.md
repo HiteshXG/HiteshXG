@@ -134,10 +134,13 @@
 
 <div align="center">
 
-
 ## 📈 Contribution Graph
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=00000000&color=DC2626&line=DC2626&point=EF4444&area=true&hide_border=true" alt="Contribution Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
+  width="100%"
+  alt="Contribution Graph"
+/>
 
 </div>
 
