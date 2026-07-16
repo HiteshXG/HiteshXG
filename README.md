@@ -43,39 +43,23 @@
 
 <td width="65%" valign="top">
 
-### 👨‍💻 Hello!
+<h2 align="center">
+  <img src="/imgs/title1.png" width="25"/> <em>About Me</em>
+</h2>
 
-I'm **Hitesh**, a passionate **Software Developer** who enjoys transforming ideas into real-world applications.
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
-I love building modern, scalable, and user-friendly software while continuously learning new technologies.
-
-### 🌟 Currently
-
-- 🔭 Working on **exciting full-stack projects**
-- 🌱 Learning **Cloud • AI • System Design**
-- 💡 Exploring **Open Source**
-- ⚡ Building projects to improve every day
-- 🎯 Goal: Become a world-class Software Engineer
-
-### ❤️ Interests
-
-- Web Development
-- Software Engineering
-- Artificial Intelligence
-- UI / UX
-- Backend Development
-- Open Source
+<p>
+  Hello there! <em><b>I'm Hitesh Naresh Gavand</b></em>, a passionate Software Developer who enjoys transforming ideas into real-world applications.
+  I love building modern, scalable, and user-friendly software while continuously learning new technologies.
+  Currently, I'm working on exciting full-stack projects while expanding my knowledge of AI and Data Structures & Algorithms (DSA).
+  I build projects every day to sharpen my skills, and my goal is to become a world-class Software Engineer.
+  I have a strong interest in web development, software engineering, artificial intelligence, UI/UX design, and backend development.
+</p>
 
 > *"Keep learning. Keep building. Keep improving."*
-
 </td>
-
-<td width="35%" align="center">
-
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
-
-</td>
-
 </tr>
 </table>
 
