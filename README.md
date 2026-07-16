@@ -88,7 +88,7 @@ I love building modern, scalable, and user-friendly software while continuously 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask,java,kotlin,python,spring,mongodb,mysql,postgres,supabase,firebase,redis,sqlite,flutter,git,github,vscode,figma,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask,java,kotlin,python,spring,mongodb,mysql,postgres,supabase,firebase,redis,sqlite,flutter,git,github,vscode,figma,postman" />
 </p>
 
 </div>
