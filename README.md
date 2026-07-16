@@ -92,23 +92,22 @@ I love building modern, scalable, and user-friendly software while continuously 
 
 ---
 
-<div align="center">
-
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HiteshXG&show_icons=true&hide_border=true&theme=transparent&title_color=DC2626&icon_color=DC2626&text_color=999999&ring_color=DC2626" alt="GitHub Stats"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=DC2626&title_color=DC2626&text_color=C9D1D9" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshXG&theme=dark&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=transparent&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+</p>
 
-<br><br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshXG&layout=compact&hide_border=true&theme=transparent&title_color=DC2626&text_color=999999" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=DC2626&text_color=C9D1D9" />
+</p>
 
 ---
 
 <div align="center">
+
 
 ## 📈 Contribution Graph
 
