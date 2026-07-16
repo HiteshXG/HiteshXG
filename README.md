@@ -191,10 +191,18 @@
 ---
 
 <!-- Footer Wave --><p align="center">
-  <p align="center">
-  <img
-    src="./assets/assets/83m6pl-ezgif.com-optimize.gif"
-    alt="Footer"
-    width="100%"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=footer"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
+    alt="Footer Wave"
+  />
+</picture>
