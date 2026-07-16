@@ -148,92 +148,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=HiteshXG&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<!-- Snake Animation - Will work once GitHub Action is set up -->
-<!-- Create .github/workflows/snake.yml to enable this -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/github-contribution-grid-snake.svg"
-    onerror="this.style.display='none'; document.getElementById('snake-fallback').style.display='block';"
-  />
-</picture>
-
-<div id="snake-fallback" style="display: none; padding: 30px; background: #0d1117; border-radius: 12px; border: 1px dashed #DC2626; margin: 20px 0;">
-  <p style="color: #DC2626; font-size: 18px; margin-bottom: 10px;">🐍 Setup Required for Snake Animation</p>
-  <p style="color: #999; margin-bottom: 15px;">To enable the snake animation, set up the GitHub Action workflow.</p>
-  <details style="text-align: left; max-width: 600px; margin: 0 auto;">
-    <summary style="color: #DC2626; cursor: pointer; font-weight: 600;">📖 Click for setup instructions</summary>
-    <div style="padding: 20px; background: #161b22; border-radius: 8px; margin-top: 15px; text-align: left; color: #ccc; border: 1px solid #30363d;">
-      <ol style="margin: 0; padding-left: 20px; line-height: 2;">
-        <li>Create <code style="background: #1c2333; padding: 2px 8px; border-radius: 4px; color: #DC2626;">.github/workflows/snake.yml</code></li>
-        <li>Add the Platane/snk workflow (see below)</li>
-        <li>Push to main branch</li>
-        <li>Go to Actions tab and run the workflow</li>
-        <li>The animation will appear here automatically!</li>
-      </ol>
-      <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d;">
-        <p style="color: #999; font-size: 14px; margin-bottom: 8px;">📋 Workflow code:</p>
-        <pre style="background: #0d1117; padding: 15px; border-radius: 6px; overflow-x: auto; font-size: 12px; color: #58a6ff; border: 1px solid #30363d;">
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: HiteshXG
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        </pre>
-      </div>
-      <div style="margin-top: 15px;">
-        <a href="https://github.com/Platane/snk" target="_blank" style="color: #DC2626; text-decoration: none; font-weight: 600;">📚 Full documentation →</a>
-      </div>
-    </div>
-  </details>
-</div>
-
-<br>
-<em style="color: #666; font-size: 14px;">⚡ Snake eating my contribution graph</em>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <a href="https://linkedin.com/in/your-linkedin-username">
@@ -259,26 +173,6 @@ jobs:
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📝 Latest Blog Posts
-
-<!-- Replace with your actual blog posts if you have one -->
-<!-- Using dev.to as an example -->
-
-<a href="https://dev.to/your-devto-username">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-
-<br><br>
-
-<!-- You can add your latest blog posts here using a GitHub Action -->
-<!-- Example: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 </div>
 
