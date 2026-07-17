@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:000000,50:2C2C2C,100:FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:2C2C2C,100:FFFFFF" />
 </div>
 
 ###
