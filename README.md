@@ -18,11 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:000000,50:2C2C2C,100:FFFFFF" />
-</div>
 
 ###
 
@@ -50,12 +45,6 @@
 </table>
 
 ---
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:2C2C2C,100:FFFFFF" />
-</div>
 
 ###
 
@@ -116,11 +105,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
 ###
 
@@ -133,12 +117,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
   <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=great-gatsby&hide_border=true" />
   
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -156,12 +134,6 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <p data-importer="text" align="center">Connect With Me</p>
 
 ###
@@ -172,19 +144,7 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
 ###
 
@@ -192,12 +152,6 @@
   <a href="https://open.spotify.com/user/Hitesh Gavand">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hitesh%20Gavand&count=5" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
