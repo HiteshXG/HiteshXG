@@ -28,6 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+---
 
 ###
 
@@ -60,6 +61,8 @@
 
 <h2 align="center">Technologies</h2>
 
+---
+
 ###
 
 ### Languages
@@ -70,6 +73,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 
+---
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -79,6 +84,8 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
 
+---
+
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -86,6 +93,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+
+---
 
 ### Databases
 
@@ -97,6 +106,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
+---
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
@@ -105,6 +116,8 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 ### AI / Data Science
 
@@ -115,10 +128,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
+---
 
 ###
 
 <h2 align="center">Analytics</h2>
+
+---
 
 ###
 
@@ -129,9 +145,13 @@
   
 </div>
 
+---
+
 ###
 
 <h2 align="center">Statistics</h2>
+
+---
 
 ###
 
@@ -142,15 +162,21 @@
 />
 </div>
 
+---
+
 ###
 
 <h2 align="center">Connect With Me</h2>
+
+---
 
 ###
 
 <p align="center">
 <a href="https://linkedin.com/in/hitesh-gavand"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://twitter.com/hnxvrtxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="https://instagram.com/hnxvrtxx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="mailto:hiteshgavand0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+---
 
 ###
 
@@ -170,6 +196,8 @@
 </picture>
 </p>
 
+---
+
 ###
 
 <div align="center">
@@ -178,6 +206,8 @@
     alt="Spotify Recently Played"
   />
 </div>
+
+---
 
 ###
 
@@ -199,11 +229,15 @@
 
 </p>
 
+---
+
 ###
 
 <h3 align="center">
 ⭐ If you like my work, consider starring my repositories!
 </h3>
+
+---
 
 ###
 
@@ -211,4 +245,5 @@
   <img data-importer="image" height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
 </div>
 
+---
 ###
