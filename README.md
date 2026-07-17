@@ -123,7 +123,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=transparent&show_icons=true&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" /> <br>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=highcontrast&show_icons=true&hide_border=true" /> <br>
   <img src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -131,7 +131,7 @@
 ###
 
 <div data-importer="border">
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=highcontrast&hide_border=true" />
 </div>
 
 ###
