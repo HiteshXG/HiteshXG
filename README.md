@@ -206,8 +206,9 @@
 </h3>
 
 ###
+
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
+  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
 </div>
 
 ###
