@@ -247,39 +247,17 @@
 
 ###
 
-<!-- <p align="center">
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!;If+you+like+my+work%2C+consider+starring+my+repositories!"
     alt="Typing SVG"/>
-</p> -->
+</p>
 
 <!-- <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/⭐%20Star-My%20Repositories-black?style=for-the-badge" />
   </a>
 </p> -->
-
-<!-- <div align="center">
-
-| ⭐ Support My Work |
-|:-----------------:|
-| If you like my projects, consider giving them a ⭐. It helps others discover them and motivates me to keep building! |
-
-</div> -->
-
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for stopping by!
-
-If you enjoy my projects and find them useful,
-
-### ⭐ Consider starring my repositories!
-
-Every star encourages me to create more open-source projects.
-
-</div>
-
 
 ---
 
