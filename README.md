@@ -3,7 +3,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg" width="100%" alt="Banner"/>
+  <img src="./assets/banner1.png" width="100%" alt="Banner"/>
 </p>
 
 ###
@@ -241,9 +241,9 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
-</div>
+<p align="center">
+  <img src="./assets/footer1.png" width="100%" alt="Banner"/>
+</p>
 
 ---
 ###
