@@ -166,25 +166,9 @@
 
 ###
 
-<div align="center">
-
-<a href="https://linkedin.com/in/hitesh-gavand" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;
-
-<a href="https://twitter.com/hnxvrtxx" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>&nbsp;
-
-<a href="https://instagram.com/hnxvrtxx" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>&nbsp;
-
-<a href="mailto:hiteshgavand0@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/hitesh-gavand"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://twitter.com/hnxvrtxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a><a href="https://instagram.com/hnxvrtxx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:hiteshgavand0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ###
 
