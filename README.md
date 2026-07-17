@@ -1,12 +1,22 @@
-<div data-importer="image" align="center">
+<!-- <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg"  />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg" width="100%" alt="Banner"/>
+</p>
 
 ###
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=I'm+Hitesh;Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact"
+    alt="Typing SVG"/>
+</p>
+
+<!-- <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+'+m+Hitesh;Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
-</div>
+</div> -->
 
 ###
 
@@ -113,9 +123,9 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=great-gatsby&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=great-gatsby&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=great-gatsby&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=great-gatsby&hide_border=true" />
   
 </div>
 
@@ -139,11 +149,12 @@
 ###
 
 <p align="center">
-<a href="https://linkedin.com/in/hitesh-gavand"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://twitter.com/hnxvrtxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a><a href="https://instagram.com/hnxvrtxx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:hiteshgavand0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/hitesh-gavand"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://twitter.com/hnxvrtxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="https://instagram.com/hnxvrtxx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;<a href="mailto:hiteshgavand0@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ###
 
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -157,18 +168,21 @@
     alt="Snake Contribution Graph"
     src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph-dark.svg">
 </picture>
+</p>
 
 ###
 
 <div align="center">
   <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=316dv3tta4rrzexxjikjuh7bf3wq&count=5&width=900&unique=true"
+    width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=316dv3tta4rrzexxjikjuh7bf3wq&count=5&width=900&unique=true"
     alt="Spotify Recently Played"
   />
 </div>
 
 ###
 
+
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -183,19 +197,17 @@
     src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+</p>
+
 ###
 
-<div align="center">
-
-### If you like my work, consider giving a star to my repositories!
-
-<br>
-
-</div>
+<h3 align="center">
+⭐ If you like my work, consider starring my repositories!
+</h3>
 
 ###
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
+  <img data-importer="image" width="100" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
 </div>
 
 ###
