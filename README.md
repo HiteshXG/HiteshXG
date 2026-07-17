@@ -7,11 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
 
 ###
-<br>
+
 <img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
 <img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
 <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
-<br>
+
 ###
 
 <div data-importer="border">
