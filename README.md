@@ -253,11 +253,19 @@
     alt="Typing SVG"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/⭐%20Star-My%20Repositories-black?style=for-the-badge" />
   </a>
-</p>
+</p> -->
+
+<div align="center">
+
+| ⭐ Support My Work |
+|:-----------------:|
+| If you like my projects, consider giving them a ⭐. It helps others discover them and motivates me to keep building! |
+
+</div>
 
 
 
