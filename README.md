@@ -1,21 +1,30 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/24/d8/36/24d836e64f21aff60555d5f27de73e1b.jpg"  />
 </div>
+
+###
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
+###
+
+<img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
----
+###
 
 ## About Me
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
@@ -36,7 +45,17 @@
 
 ---
 
-## Tech Stack
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">Technologies</p>
+
+###
 
 ### Languages
 
@@ -91,44 +110,53 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
----
+###
 
-<div align="center">
-
-## Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HiteshXG&theme=highcontrast&show_icons=true&hide_border=false&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&theme=highcontrast&hide_border=false&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshXG&layout=compact&theme=highcontrast&hide_border=false&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
----
+###
 
-<div align="center">
+<p data-importer="text" align="center">Analytics</p>
 
-## Contribution Graph
+###
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
-  width="100%"
-  alt="Contribution Graph"
-/>
-
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<div align="center">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-## Connect With Me
+###
 
+<p data-importer="text" align="center">Statistics</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">Connect With Me</p>
+
+###
+
+<div data-importer="techs" align="left">
 <a href="https://linkedin.com/in/hitesh-gavand">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -144,10 +172,47 @@
 <a href="mailto:hiteshgavand0@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 </div>
 
----
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Hitesh Gavand">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hitesh%20Gavand&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <div align="center">
 
@@ -155,39 +220,11 @@
 
 <br>
 
-![GitHub repo stars](https://img.shields.io/github/stars/HiteshXG?style=social)
-![GitHub followers](https://img.shields.io/github/followers/HiteshXG?style=social)
-
 </div>
 
----
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake.svg" />
-</picture>
-
----
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif" />
+###
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif"  />
 </div>
 
-<!-- Footer Wave -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=160&section=footer"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
-  />
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=160&section=footer"
-    alt="Footer Wave"
-  />
-</picture>
+###
