@@ -144,7 +144,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/pacman-output/pacman-contribution-graph.svg" alt="Snake animation" />
 
 ###
 
