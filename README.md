@@ -3,7 +3,7 @@
 </div> -->
 
 <p align="center">
-  <img src="./assets/banner1.png" width="100%" alt="Banner"/>
+  <img src="./assets/banner2.png" width="100%" alt="Banner"/>
 </p>
 
 ###
@@ -242,7 +242,7 @@
 ###
 
 <p align="center">
-  <img src="./assets/Footer1.png" width="100%" alt="Banner"/>
+  <img src="./assets/footer2.png" width="100%" alt="Banner"/>
 </p>
 
 ---
