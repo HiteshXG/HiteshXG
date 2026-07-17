@@ -143,9 +143,8 @@
 
 <div data-importer="stats" align="center">
   <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&theme=highcontrast&area=true&hide_border=false"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HiteshXG&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"
   width="100%"
-  alt="Contribution Graph"
 />
 </div>
 
