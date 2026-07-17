@@ -48,7 +48,9 @@
 
 ###
 
-<p data-importer="text" align="center">Technologies</p>
+<p data-importer="text" align="center">
+### Technologies
+</p>
 
 ###
 
@@ -108,7 +110,9 @@
 
 ###
 
-<p data-importer="text" align="center">Analytics</p>
+<p data-importer="text" align="center">
+### Analytics
+</p>
 
 ###
 
@@ -121,7 +125,9 @@
 
 ###
 
-<p data-importer="text" align="center">Statistics</p>
+<p data-importer="text" align="center">
+### Statistics
+</p>
 
 ###
 
@@ -134,7 +140,9 @@
 
 ###
 
-<p data-importer="text" align="center">Connect With Me</p>
+<p data-importer="text" align="center">
+### Connect With Me
+</p>
 
 ###
 
