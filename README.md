@@ -144,7 +144,19 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/pacman-output/pacman-contribution-graph.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph.svg">
+
+  <img
+    alt="Snake Contribution Graph"
+    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/snake-output/snake-contribution-graph-dark.svg">
+</picture>
 
 ###
 
