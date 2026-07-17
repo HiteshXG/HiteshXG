@@ -3,9 +3,11 @@
 </div>
 
 ###
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=I+'+m+Hitesh;Software+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Building+Projects+That+Make+an+Impact" alt="Typing SVG" />
 </div>
+
 ###
 
 <p align="center">
@@ -15,6 +17,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 ###
 
 <div data-importer="border">
