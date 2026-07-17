@@ -20,8 +20,8 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:000000,40:1A1A1A,75:3A3A3A,100:FFFFFF" />
 </div>
 
 ###
@@ -53,8 +53,8 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,40:1A1A1A,75:3A3A3A,100:FFFFFF" />
 </div>
 
 ###
