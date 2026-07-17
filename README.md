@@ -21,7 +21,7 @@
 
 ###
 
-## About Me
+<h2 align="center">About Me</h2>
 
 <table>
 <tr>
@@ -48,7 +48,7 @@
 
 ###
 
-### Technologies
+<h2 align="center">Technologies</h2>
 
 ###
 
@@ -108,7 +108,7 @@
 
 ###
 
-### Analytics
+<h2 align="center">Analytics</h2>
 
 ###
 
@@ -121,7 +121,7 @@
 
 ###
 
-### Statistics
+<h2 align="center">Statistics</h2>
 
 ###
 
@@ -134,7 +134,7 @@
 
 ###
 
-### Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 ###
 
