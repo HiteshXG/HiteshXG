@@ -156,8 +156,18 @@
 
 ###
 
-<picture data-importer="pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/HiteshXG/HiteshXG/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ###
