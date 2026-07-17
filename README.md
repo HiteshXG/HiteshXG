@@ -247,9 +247,9 @@
 
 ###
 
-<h3 align="center">
-⭐ If you like my work, consider starring my repositories!
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;If+you+like+my+work%2C+consider+starring+my+repositories!+⭐" />
+</p>
 
 ---
 
