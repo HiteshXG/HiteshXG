@@ -259,14 +259,26 @@
   </a>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
 
 | ⭐ Support My Work |
 |:-----------------:|
 | If you like my projects, consider giving them a ⭐. It helps others discover them and motivates me to keep building! |
 
-</div>
+</div> -->
 
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for stopping by!
+
+If you enjoy my projects and find them useful,
+
+### ⭐ Consider starring my repositories!
+
+Every star encourages me to create more open-source projects.
+
+</div>
 
 
 ---
