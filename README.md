@@ -248,7 +248,9 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;If+you+like+my+work%2C+consider+starring+my+repositories!+⭐" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!;If+you+like+my+work%2C+consider+starring+my+repositories!+⭐"
+    alt="Typing SVG"/>
 </p>
 
 ---
