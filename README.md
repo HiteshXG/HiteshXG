@@ -8,10 +8,13 @@
 
 ###
 
-<img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=111111&color=DC2626" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=111111&color=B91C1C" alt="GitHub stars"/>
-<img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views"/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/HiteshXG?style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Followers" />
 
+  <img src="https://img.shields.io/github/stars/HiteshXG?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=000000&color=000000" alt="GitHub Stars" />
+
+  <img src="https://komarev.com/ghpvc/?username=HiteshXG&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 ###
 
 <div data-importer="border">
