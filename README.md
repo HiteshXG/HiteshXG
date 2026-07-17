@@ -124,7 +124,7 @@
 
 <div data-importer="stats" align="left">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=HiteshXG&theme=great-gatsby&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=great-gatsby&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HiteshXG&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" alt="streak graph" />
   <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HiteshXG&layout=compact&theme=great-gatsby&hide_border=true" />
   
 </div>
