@@ -264,7 +264,7 @@
 ###
 
 <p align="center">
-  <img src="./assets/footer2.png" width="100%" alt="Banner"/>
+  <img src="./assets/footer1.png" width="100%" alt="Banner"/>
 </p>
 
 ---
